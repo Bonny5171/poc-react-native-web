@@ -2,7 +2,7 @@
 
 App para IOS, Android e Web. Construida com create-react-app e create-react-native-app.
 
-### Com Redux, Jest, Enzyme e React-Router
+### Utilizado: Redux, Jest, Enzyme e React-Router
 
 [Mais detalhes no artigo](https://medium.com/@Or_yoffe/building-a-platform-agnostic-app-react-native-and-web-c0e82cbdda8)
 
@@ -10,7 +10,7 @@ App para IOS, Android e Web. Construida com create-react-app e create-react-nati
 <img src="https://raw.githubusercontent.com/VISI-ONE/rnw-starter-app/master/src/assets/logo.png">
 </p>
 
-## Baseando em
+## Baseando em:
 - [React Native for Web (react-native-web)](https://github.com/necolas/react-native-web)
 - [React Everywhere boilerplate (react-native-template-re-start)](https://github.com/react-everywhere/re-start)
 - [React](https://reactjs.org/)
@@ -33,6 +33,7 @@ npm -g i react-native-cli
 git clone git@bitbucket.org:luis_araujo/poc-react-native-web.git
 cd poc-react-native-web
 rm -rf .git
+yarn install
 yarn
 ```
 
@@ -64,7 +65,7 @@ yarn
 - Open Coverage - web `yarn open-coverage`
 - Open Coverage - native `yarn open-coverage:native`
 
-## Debugging
+## Debugando
 
 Abrir o menu de desenvolvedor:
 1. CMD+D (IOS) / CMD+M (Android)
