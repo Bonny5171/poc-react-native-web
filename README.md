@@ -7,8 +7,7 @@ App para IOS, Android e Web. Construida com create-react-app e create-react-nati
 [Mais detalhes no artigo](https://medium.com/@Or_yoffe/building-a-platform-agnostic-app-react-native-and-web-c0e82cbdda8)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VISI-ONE/rnw-starter-app/master/src/assets/logo.png">
-<img src="https://scontent.fsdu17-1.fna.fbcdn.net/v/t31.0-8/14258227_1763173830605252_7631718483095220111_o.jpg" height="300" width="300">
+<img src="https://raw.githubusercontent.com/VISI-ONE/rnw-starter-app/master/src/assets/logo.png">width="300">
 </p>
 
 ## Baseando em:
