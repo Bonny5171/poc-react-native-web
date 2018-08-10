@@ -8,6 +8,7 @@ App para IOS, Android e Web. Construida com create-react-app e create-react-nati
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/VISI-ONE/rnw-starter-app/master/src/assets/logo.png">
+<img src="https://scontent.fsdu17-1.fna.fbcdn.net/v/t31.0-8/14258227_1763173830605252_7631718483095220111_o.jpg" height="300" width="300">
 </p>
 
 ## Baseando em:
