@@ -1,10 +1,10 @@
 # Poc react-native-web
 
-App para IOS, Android e Web. Construida com create-react-app e create-react-native-app.
+App para IOS, Android e Web. Construida com create-react-app e create-react-native-app contendo estrutura basica de autenticação, globalizando e rotas.
 
 ### Utilizado: Redux, Jest, Enzyme e React-Router
 
-[Mais detalhes no artigo](https://medium.com/@Or_yoffe/building-a-platform-agnostic-app-react-native-and-web-c0e82cbdda8)
+[Mais detalhes no artigo](https://medium.com/@Or_yoffe/building-a-platfGlobalgzandonostic e rotas.-app-react-native-and-web-c0e82cbdda8)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/VISI-ONE/rnw-starter-app/master/src/assets/logo.png">width="300">
