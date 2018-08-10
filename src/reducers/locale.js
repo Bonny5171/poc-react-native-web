@@ -3,8 +3,8 @@ import getTranslations from '../utils/locales/index';
 
 // TODO intiate from user specifics (browser language or native language)
 const initialState = {
-  currentLocale: 'en-US',
-  translations: getTranslations('en-US'),
+  currentLocale: 'pt-BR',
+  translations: getTranslations('pt-BR'),
 };
 
 export default (state = initialState, action) => {
